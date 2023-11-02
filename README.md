@@ -12,3 +12,7 @@
 
 # Issues:
 # I had issues aligning the text to be in front of the shape for a fully customised experience.
+
+# Walkthrough Video
+
+# https://www.loom.com/share/8d0784df4979402da93d0f41f9d136b0?sid=09e09f60-4dd5-4504-aa77-3b0626f56a71
