@@ -1,0 +1,7 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="200" fill="none"/>
+<text x="150" y="100"  font-size="32" text-anchor="start" fill="red">hi</text>
+
+<path d="M75 200 L225 200 L150 100 Z"  fill="blue" stroke="black"/>
+
+</svg>
